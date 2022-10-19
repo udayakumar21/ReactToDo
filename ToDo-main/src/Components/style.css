@@ -1,0 +1,33 @@
+* {
+   margin: 0;
+   margin-top: 0px;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+   background-color: #C3F8FF;
+}
+
+.head {
+   text-align: center;
+   width: 100%;
+   min-height: 80px;
+   background-color: aqua;
+   border-radius: 20px;
+   margin-bottom: 30px;
+   margin-top: 100px;
+   padding: 15px 0px;
+}
+
+li {
+   min-height: 30px;
+   border-radius: 12px;
+   padding: 10px 15px;
+}
+
+.rowstyle {
+   padding: 5px 10px;
+}
+
+.btnst {
+   margin-top: 12px;
+}
